@@ -1,0 +1,11 @@
+Portfolio note:
+
+1) Colors:
+Main Color: 9d6638
+Text color: 190b05
+Background color: b8c2a3
+Accent: deff94
+
+2) Mood: 
+I want the mood of the website to be calm and confident.
+

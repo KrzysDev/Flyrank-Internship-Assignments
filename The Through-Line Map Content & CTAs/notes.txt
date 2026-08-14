@@ -1,0 +1,27 @@
+ONE-LINE CLAIM
+"I build AI-powered applications that solve real problems."
+
+CONTENT MAP
+
+Page 1 — Landing
+- Hero: one-line claim + sub-line "One shipped AI system."
+- CTA: "See the work" → Work/Demo page
+
+Page 2 — Work / Demo
+- Case 1 (lead, strongest): UstnaApp — problem, what it does, real screenshot/demo, outcome
+  CTA: "Contact me about this" → email
+- Case 2 (secondary, shorter): AutoTests AI — brief context + GIF, no full case study
+- Closing line: "Want something built like this?"
+  CTA: "Email me" → Contact page
+
+Page 3 — Contact
+- Email, phone, LinkedIn
+- CTA (primary): "Send me an email"
+
+CTA ladder: Landing ("See the work") → Work page ("Contact me about this") → Contact page ("Send me an email") — all funnel to the Week 1 action: contacting me by email.
+
+STILL NEED TO GATHER
+- A concrete before/after metric or outcome for UstnaApp
+- AutoTests AI GIF — already have, will use for the secondary entry
+- Testimonial — none available, not blocking the build
+- Unfinished internship work — not applicable, both projects are complete enough to show

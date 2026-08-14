@@ -1,0 +1,27 @@
+Final image set — decisions
+
+Background (AI-generated)
+Chosen: dot-grid pattern, #9d6638 dots on #b8c2a3 background, 18% opacity — subtle texture that stays in the back.
+Decision: AI, since this is purely decorative connective tissue, not proof of work.
+
+My photo (real, taken by me)
+A real photo that accurately depicts how I look.
+Decision: real, because this is me — an AI stand-in would undermine credibility and isn't allowed for this case.
+
+UstnaApp screenshot (real)
+A real screenshot of the working app
+Decision: real, because it's direct proof of actual work — an AI-generated screen would be misleading.
+
+Laptop with Python code (AI-generated)
+A photorealistic image of a laptop with code on screen, in warm tones matching the kit.
+Decision: AI, since it's a mood/context illustration (a teaser before "see the work"), not a specific proof — no need to shoot this myself.
+
+Contact page icons — email, phone, LinkedIn (AI-generated)
+Simple, consistent line-icon set in #190b05.
+Decision: AI, since these are functional UI elements, not content — style consistency matters more than authenticity here.
+
+Rejection notes (curation)
+
+Rejected background variant — diagonal lines: the directional lines created a sense of movement that pulled the eye toward one corner, competing with the project cards instead of staying neutral.
+
+Rejected background variant — large accent-colored blobs: using #deff94 in large, bold shapes was too visually dominant — it broke the "work is the loudest thing on the page" rule, turning the background into content instead of support.
